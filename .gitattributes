@@ -1,0 +1,7 @@
+# 统一换行符：仓库内一律 LF，跨平台签出不再转 CRLF
+* text=auto eol=lf
+
+# 明确的二进制类型（当前仓库暂无，预防未来加入时被误转）
+*.png binary
+*.jpg binary
+*.zip binary
