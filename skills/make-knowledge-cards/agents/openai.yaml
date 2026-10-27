@@ -1,5 +1,5 @@
 name: make-knowledge-cards
-version: 1.0.0
+version: 0.1.0
 description: 把粘贴的文章或本地 Markdown/TXT 文件转成 5 到 8 张知识卡片
 instructions: |
   读取同目录上层的 SKILL.md，严格按其工作流执行：判断输入可行性、抽取知识单元、
